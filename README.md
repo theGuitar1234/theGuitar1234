@@ -4,8 +4,7 @@
 
 ### Languages
 
-<img src="https://camo.githubusercontent.com/79945c10efb7e71474ca807e14ed66b6c4bdf8b7f9af8cfec5e0e7819ec86321/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465" alt="Java" data-canonical-src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" style="max-width: 100%;">
-
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 ```
   ( (
    ) )
@@ -13,9 +12,7 @@
   `____'
    ‾‾‾‾
 ```
-
-<img src="https://camo.githubusercontent.com/1d353014330c1d8cf4b9159edbd524af957b548a1c5f7899a17ecfbe55ebc507/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" style="max-width: 100%;">
-
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 ```
    █ ▟██▖ 
    █ █    
@@ -24,9 +21,17 @@
 ▖ █ █   █ 
 ██▘ ▝██▘ 
 ```
-
-<img src="https://camo.githubusercontent.com/453f39306cf9d0b576f2f31022c607c98d57f330c7e27a7f7713c2254b5d5b8e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534" alt="Python" data-canonical-src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" style="max-width: 100%;">
-
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+```
+▃▃▃▃▃▃
+   █ ▟██▖ 
+   █ █    
+   █ ▝██▖ 
+   █   ▝█ 
+   █ █   █ 
+     ▝██▘
+```
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 ```
           .?77777777777777$.            
           777..777777777777$+           
@@ -53,4 +58,14 @@
           ,=======++++++,,++,           
           ..=====+++++++++=.            
                 ..~+=... 
+```
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+```
+    ____
+  / ____ \         //     //
+ / /    \_|   ___ //_____//___
+| |           ‾‾‾//‾‾‾‾‾//‾‾‾            
+| |      __  __ //_____//___    
+\ \_____/ /  ‾‾//‾‾‾‾‾//‾‾‾   
+ \_______/    //     //
 ```
