@@ -2,7 +2,36 @@
 
 ---
 
-<p align="center" style="display: flex;">
+<div style="width: 100%; flex-wrap: wrap; display: flex">
+  <div style="flex: 1 1 0">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=theGuitar1234&theme=dark"
+      alt="Streak Stats"
+      style="
+        flex-grow: 1;
+        display: block;
+        object-fit: contain;
+        width: 100%;
+        height: clamp(130px, 18vw, 170px);
+      "
+    />
+  </div>
+  <div style="flex: 1 1 0">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=theGuitar1234&show_icons=true&theme=dark"
+      alt="theGuitar1234's GitHub Stats"
+      style="
+        flex-grow: 1;
+        display: block;
+        object-fit: contain;
+        width: 100%;
+        height: clamp(130px, 18vw, 170px);
+      "
+    />
+  </div>
+</div>
+
+<!-- <p align="center" style="display: flex;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theGuitar1234&theme=dark" alt="Streak Stats" height="170" style="flex-grow: 1; display: block;" />
   <img src="https://github-readme-stats.vercel.app/api?username=theGuitar1234&show_icons=true&theme=dark" alt="theGuitar1234's GitHub Stats" height="170" style="flex-grow: 1; display: block; "/>
 </p>
@@ -10,7 +39,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake dark"/>
   <img src="https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake light"/>
-</p>
+</p> -->
 
 ***Tech Stack***
 
