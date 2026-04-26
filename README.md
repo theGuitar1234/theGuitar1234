@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theGuitar1234&show_icons=true&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="theGuitar1234's GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=theGuitar1234&show_icons=true alt="theGuitar1234's GitHub Stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theGuitar1234" alt="Streak Stats" height="170"/>
 </p>
 
