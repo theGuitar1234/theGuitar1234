@@ -2,7 +2,7 @@
 
 ---
 
-<div style="width: 100%; flex-wrap: wrap; display: flex">
+<div style="width: 100%; display: flex; flex-direction: row !important;">
   <div>
     <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=theGuitar1234&theme=dark"
