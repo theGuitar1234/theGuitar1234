@@ -1,6 +1,6 @@
 ## Dev Profile Showcase
 
-<a href="http://www.github.com/theGuitar1234"><img src="https://github-readme-streak-stats.herokuapp.com/?user=theGuitar1234&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a align="center" href="http://www.github.com/theGuitar1234"><img src="https://github-readme-streak-stats.herokuapp.com/?user=theGuitar1234&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ***Tech Stack***
 
@@ -38,3 +38,14 @@
 </p>
 
 ---
+
+** Coding Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theGuitar1234&show_icons=true&theme=radical" alt="Asif's GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theGuitar1234&theme=radical" alt="Streak Stats" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=theGuitar1234&theme=react-dark" alt="Coding Activity Graph"/>
+</p>
