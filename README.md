@@ -48,3 +48,7 @@
   <img src="https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake dark"/>
   <img src="https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake light"/>
 </p
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=theGuitar1234&style=flat-square&color=blue" alt="Profile views"/>
+</p>
