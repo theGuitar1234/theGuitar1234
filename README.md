@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=theGuitar1234&theme=dark" alt="Coding Activity Graph"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=theGuitar1234&theme=react-dark" alt="Coding Activity Graph"/>
 </p>
 
 <p align="center">
