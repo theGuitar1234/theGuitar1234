@@ -11,7 +11,7 @@
         flex-grow: 1;
         display: block;
         object-fit: contain;
-        width: clamp(130px, 18vw, 170px);
+        width: 50%;
         height: clamp(130px, 18vw, 170px);
       "
     />
@@ -24,7 +24,7 @@
         flex-grow: 1;
         display: block;
         object-fit: contain;
-        width: clamp(130px, 18vw, 170px);
+        width: 50%;
         height: clamp(130px, 18vw, 170px);
       "
     />
