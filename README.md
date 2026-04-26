@@ -36,9 +36,17 @@
 ### Languages
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 
-<p align="center" style="width: 100%; backround-color: red;">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theGuitar1234&layout=compact&theme=dark" alt="Top Languages" style="display: block; width: 100%;"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img 
+        height="170" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=theGuitar1234&layout=compact&theme=dark" 
+        alt="Top Languages" 
+        style="display: block; width: 100%;"/>
+    </td>
+  </tr>
+</table>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=theGuitar1234&style=flat-square&color=blue" alt="Profile views"/>
