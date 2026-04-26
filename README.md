@@ -11,6 +11,11 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=theGuitar1234&theme=dark" alt="Coding Activity Graph"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake dark"/>
+  <img src="https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake light"/>
+</p
+
 ***Tech Stack***
 
 ### Languages
@@ -47,8 +52,3 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=theGuitar1234&style=flat-square&color=blue" alt="Profile views"/>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake dark"/>
-  <img src="https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake light"/>
-</p
