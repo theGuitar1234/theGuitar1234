@@ -2,34 +2,24 @@
 
 ---
 
-<div style="width: 100%; display: flex; flex-direction: row !important;">
-  <div>
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=theGuitar1234&theme=dark"
-      alt="Streak Stats"
-      style="
-        flex-grow: 1;
-        display: block;
-        object-fit: contain;
-        width: 50%;
-        height: clamp(130px, 18vw, 170px);
-      "
-    />
-  </div>
-  <div>
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=theGuitar1234&show_icons=true&theme=dark"
-      alt="theGuitar1234's GitHub Stats"
-      style="
-        flex-grow: 1;
-        display: block;
-        object-fit: contain;
-        width: 50%;
-        height: clamp(130px, 18vw, 170px);
-      "
-    />
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=theGuitar1234&theme=dark"
+        alt="Streak Stats"
+        height="170"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=theGuitar1234&show_icons=true&theme=dark"
+        alt="GitHub Stats"
+        height="170"
+      />
+    </td>
+  </tr>
+</table>
 
 <!-- <p align="center" style="display: flex;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theGuitar1234&theme=dark" alt="Streak Stats" height="170" style="flex-grow: 1; display: block;" />
