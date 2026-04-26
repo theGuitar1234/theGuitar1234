@@ -3,8 +3,8 @@
 ---
 
 <p align="center" style="display: flex;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theGuitar1234&theme=dark" alt="Streak Stats" height="170" style="flex-grow: 1;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=theGuitar1234&show_icons=true&theme=dark" alt="theGuitar1234's GitHub Stats" height="170" style="flex-grow: 1;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theGuitar1234&theme=dark" alt="Streak Stats" height="170" style="flex-grow: 1; display: block;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theGuitar1234&show_icons=true&theme=dark" alt="theGuitar1234's GitHub Stats" height="170" style="flex-grow: 1; display: block; "/>
 </p>
 
 <p align="center">
