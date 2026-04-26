@@ -8,10 +8,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=theGuitar1234&theme=react-dark" alt="Coding Activity Graph"/>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake dark"/>
   <img src="https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake light"/>
 </p
