@@ -3,7 +3,7 @@
 ---
 
 <div style="width: 100%; flex-wrap: wrap; display: flex">
-  <div style="flex: 1 1 0">
+  <div>
     <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=theGuitar1234&theme=dark"
       alt="Streak Stats"
@@ -16,7 +16,7 @@
       "
     />
   </div>
-  <div style="flex: 1 1 0">
+  <div>
     <img
       src="https://github-readme-stats.vercel.app/api?username=theGuitar1234&show_icons=true&theme=dark"
       alt="theGuitar1234's GitHub Stats"
