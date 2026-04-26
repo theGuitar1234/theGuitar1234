@@ -3,13 +3,13 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake dark"/>
-  <img src="https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake light"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theGuitar1234&theme=dark" alt="Streak Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=theGuitar1234&show_icons=true&theme=dark" alt="theGuitar1234's GitHub Stats" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theGuitar1234&show_icons=true&theme=dark" alt="theGuitar1234's GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theGuitar1234&theme=dark" alt="Streak Stats" height="170"/>
+  <img src="https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake dark"/>
+  <img src="https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake light"/>
 </p>
 
 ***Tech Stack***
