@@ -2,17 +2,13 @@
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <img
+<p align="center">
+  <img
         src="https://github-readme-streak-stats.herokuapp.com/?user=theGuitar1234&theme=dark"
         alt="Streak Stats"
         height="170"
-      />
-    </td>
-  </tr>
-</table>
+  />
+</p>
 
 <!-- <p align="center" style="display: flex;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theGuitar1234&theme=dark" alt="Streak Stats" height="170" style="flex-grow: 1; display: block;" />
