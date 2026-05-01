@@ -11,13 +11,6 @@
         height="170"
       />
     </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=theGuitar1234&show_icons=true&theme=dark"
-        alt="GitHub Stats"
-        height="170"
-      />
-    </td>
   </tr>
 </table>
 
